@@ -112,12 +112,15 @@ uncertainty — and uncertainty is a feature, not a flaw.
 
 The system only compounds if it's fed. The minimum viable habit:
 
--   **One story a week** (10 minutes — use the story card structure)
+-   **At least one story a week** (10 minutes — use the story card
+    structure). That's the floor, not the ceiling — if a story is
+    fresh and you're excited to write it, write it. The weekly minimum
+    just guarantees the system never goes quiet.
 -   **One pattern check a month** (30 minutes — read your stories and
     ask what's repeating; promote a hunch only if the evidence is
     there)
 
-Small actions compound. A year of this discipline is 50 stories and 12
+Small actions compound. A year of this discipline is 50+ stories and 12
 honest reviews — more documented evidence than most experts capture in
 a career.
 

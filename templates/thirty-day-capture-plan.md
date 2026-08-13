@@ -6,12 +6,15 @@ change everything.*
 
 ------------------------------------------------------------------------
 
-## The weekly habit: one story
+## The weekly habit: at least one story
 
-10 minutes, once a week, using the story card template.
+10 minutes, at minimum once a week, using the story card template.
+This is a floor, not a ceiling — write the moment a story is fresh
+instead of waiting for your slot if you're excited to capture more.
 
 -   **My writing day and time:** _________________________
-    *(Be exact. "Sunday 8pm with coffee" survives; "weekly" doesn't.)*
+    *(Be exact. "Sunday 8pm with coffee" survives; "weekly" doesn't —
+    this is your backstop for slow weeks, not a cap on fast ones.)*
 -   **Where my stories live:** _________________________
     *(Notebook, doc, notes app — whatever you'll actually open. The
     system is the discipline, not the software.)*

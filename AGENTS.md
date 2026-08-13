@@ -35,6 +35,15 @@ authorship.**
   them (ask what happened, what it revealed, where else they've seen
   it), but the words on the story card must be theirs — not
   paraphrased, not polished, not summarized into something smoother.
+- **Do normalize spoken punctuation, not content.** If someone is
+  dictating (voice-to-text, "old school" verbal punctuation like Apple
+  Voice Mode) and says a word like "period," "comma," or "new
+  paragraph" purely as a punctuation cue with no content role, convert
+  it to the actual mark instead of leaving it as literal text. That's
+  transcription hygiene, not polishing — it doesn't touch their words
+  or meaning. If it's ambiguous whether a word is a punctuation cue or
+  real content (e.g. "period of adjustment"), leave it as given rather
+  than guess.
 - **Do not create principles or make claims their evidence doesn't
   support.** This kit runs on one rule: nothing becomes a principle
   until multiple stories from different contexts support it. You are
