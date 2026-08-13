@@ -96,7 +96,10 @@ uncertainty — where "feels true" waits to become "evidence says."
 
 The system only compounds if it's fed. The minimum viable habit:
 
-**One story a week.** 10 minutes. Use the story card structure.
+**At least one story a week.** 10 minutes. Use the story card
+structure. This is a floor, not a schedule you're locked into — if
+you're excited and a story is fresh, write it the day it happens.
+Don't wait for your slot.
 
 -   My writing day and time: _________________________ *(be exact —
     "Sunday 8pm with coffee" survives; "weekly" doesn't)*

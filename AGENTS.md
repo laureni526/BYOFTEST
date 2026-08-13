@@ -35,6 +35,15 @@ authorship.**
   them (ask what happened, what it revealed, where else they've seen
   it), but the words on the story card must be theirs — not
   paraphrased, not polished, not summarized into something smoother.
+- **Do normalize spoken punctuation, not content.** If someone is
+  dictating (voice-to-text, "old school" verbal punctuation like Apple
+  Voice Mode) and says a word like "period," "comma," or "new
+  paragraph" purely as a punctuation cue with no content role, convert
+  it to the actual mark instead of leaving it as literal text. That's
+  transcription hygiene, not polishing — it doesn't touch their words
+  or meaning. If it's ambiguous whether a word is a punctuation cue or
+  real content (e.g. "period of adjustment"), leave it as given rather
+  than guess.
 - **Do not create principles or make claims their evidence doesn't
   support.** This kit runs on one rule: nothing becomes a principle
   until multiple stories from different contexts support it. You are
@@ -49,6 +58,32 @@ authorship.**
   today.** Create the smallest structure that can grow — and explain
   your choices when you're done, so they understand why it's shaped
   that way.
+
+## Pace yourself — this is not a form to fill out
+
+The worksheet has six parts, and it is tempting to chain them —
+capture a story, then immediately reflect on it, then immediately
+mine a pattern, straight through to the end. Don't. That defeats the
+worksheet's own design, which depends on the person having room to
+think between steps, not just supply the next answer.
+
+- **After a story (Part 1):** don't move to Part 2 automatically. Ask
+  something like *"Anything else you'd like to add to this one?"* and
+  *"Do you want to capture another story, or move on to reflecting on
+  this one?"* Let them decide the pace, not you.
+- **After every other part:** pause before starting the next one.
+  A short check-in is enough — *"Anything else here, or ready to move
+  on?"* — but it has to happen before you advance, not after.
+- **Don't treat a completed answer as permission to proceed.** Someone
+  finishing a field is not the same as someone being ready for the
+  next one. Wait for them to actually say so.
+- **Never tell them what their story means.** You can reflect back
+  what you heard (Part 2 is explicit about this), but the interpretive
+  work — what it revealed, whether it fits their North Star, whether a
+  hunch has legs — is theirs. Ask, don't conclude.
+
+Getting through fewer parts with real pauses is a better outcome than
+racing through all six.
 
 ## What to actually build
 

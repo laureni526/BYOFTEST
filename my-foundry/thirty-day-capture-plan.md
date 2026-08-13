@@ -6,16 +6,13 @@ change everything.*
 
 ------------------------------------------------------------------------
 
-## The weekly habit: at least one story
+## The weekly habit: one story
 
-10 minutes, at minimum once a week, using the story card template.
-This is a floor, not a ceiling — write the moment a story is fresh
-instead of waiting for your slot if you're excited to capture more.
+10 minutes, once a week, using the story card template.
 
--   **My writing day and time:** _________________________
-    *(Be exact. "Sunday 8pm with coffee" survives; "weekly" doesn't —
-    this is your backstop for slow weeks, not a cap on fast ones.)*
--   **Where my stories live:** _________________________
+-   **My writing day and time:** daily, 8pm
+    *(Be exact. "Sunday 8pm with coffee" survives; "weekly" doesn't.)*
+-   **Where my stories live:** GitHub (this repo)
     *(Notebook, doc, notes app — whatever you'll actually open. The
     system is the discipline, not the software.)*
 
@@ -30,8 +27,8 @@ instead of waiting for your slot if you're excited to capture more.
 
 ## The day-30 pattern check (30 minutes)
 
--   **My review date:** _________________________
--   **My accountability partner:** _________________________
+-   **My review date:** 9/12/26
+-   **My accountability partner:** Madina
 
 On that day, reread everything you've written and ask:
 
